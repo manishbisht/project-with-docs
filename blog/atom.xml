@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://manishbisht.me/new-project/blog</id>
+    <title>Manish Bisht Project Blog</title>
+    <updated>2018-03-08T06:00:00Z</updated>
+    <generator>Feed for Node.js</generator>
+    <link rel="alternate" href="https://manishbisht.me/new-project/blog"/>
+    <subtitle>The best place to stay up-to-date with the latest Manish Bisht Project news and events.</subtitle>
+    <logo>https://manishbisht.me/new-project/img/docusaurus.svg</logo>
+    <rights>Copyright © 2018 Manish Bisht</rights>
+    <entry>
+        <title type="html"><![CDATA[My First Blog Post]]></title>
+        <id>https://manishbisht.me/new-project/blog/2018/03/08/my-first-blog-post.html</id>
+        <link href="https://manishbisht.me/new-project/blog/2018/03/08/my-first-blog-post.html">
+        </link>
+        <updated>2018-03-08T06:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>This is my first blog post.</p>
+]]></summary>
+        <author>
+            <name>Manish Bisht</name>
+            <uri>https://manishbisht.me/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Version 1.0.0]]></title>
+        <id>https://manishbisht.me/new-project/blog/2017/10/24/new-version-1.0.0.html</id>
+        <link href="https://manishbisht.me/new-project/blog/2017/10/24/new-version-1.0.0.html">
+        </link>
+        <updated>2017-10-24T06:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>This blog post will test file name parsing issues when periods are present.</p>
+]]></summary>
+        <author>
+            <name>Eric Nakagawa</name>
+            <uri>http://twitter.com/ericnakagawa</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adding RSS Support]]></title>
+        <id>https://manishbisht.me/new-project/blog/2017/09/26/adding-rss.html</id>
+        <link href="https://manishbisht.me/new-project/blog/2017/09/26/adding-rss.html">
+        </link>
+        <updated>2017-09-26T06:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>This is a test post.</p>
+<p>A whole bunch of other information.</p>
+]]></summary>
+        <author>
+            <name>Eric Nakagawa</name>
+            <uri>http://twitter.com/ericnakagawa</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adding RSS Support - RSS Truncation Test]]></title>
+        <id>https://manishbisht.me/new-project/blog/2017/09/25/testing-rss.html</id>
+        <link href="https://manishbisht.me/new-project/blog/2017/09/25/testing-rss.html">
+        </link>
+        <updated>2017-09-25T06:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>This should be truncated.</p>
+]]></summary>
+        <author>
+            <name>Eric Nakagawa</name>
+            <uri>http://twitter.com/ericnakagawa</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Blog Post]]></title>
+        <id>https://manishbisht.me/new-project/blog/2017/04/10/blog-post-two.html</id>
+        <link href="https://manishbisht.me/new-project/blog/2017/04/10/blog-post-two.html">
+        </link>
+        <updated>2017-04-10T06:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus elementum massa eget nulla aliquet sagittis. Proin odio tortor, vulputate ut odio in, ultrices ultricies augue. Cras ornare ultrices lorem malesuada iaculis. Etiam sit amet libero tempor, pulvinar mauris sed, sollicitudin sapien.</p>
+]]></summary>
+        <author>
+            <name>Blog Author</name>
+            <uri>http://twitter.com/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blog Title]]></title>
+        <id>https://manishbisht.me/new-project/blog/2016/03/11/blog-post.html</id>
+        <link href="https://manishbisht.me/new-project/blog/2016/03/11/blog-post.html">
+        </link>
+        <updated>2016-03-11T06:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus elementum massa eget nulla aliquet sagittis. Proin odio tortor, vulputate ut odio in, ultrices ultricies augue. Cras ornare ultrices lorem malesuada iaculis. Etiam sit amet libero tempor, pulvinar mauris sed, sollicitudin sapien.</p>
+]]></summary>
+        <author>
+            <name>Blog Author</name>
+            <uri>http://twitter.com/</uri>
+        </author>
+    </entry>
+</feed>
