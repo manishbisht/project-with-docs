@@ -9,7 +9,7 @@
 const users = [
   {
     caption: 'User1',
-    image: '/test-site/img/docusaurus.svg',
+    image: '/project-with-docs/img/docusaurus.svg',
     infoLink: 'https://www.facebook.com',
     pinned: true,
   },
@@ -19,8 +19,8 @@ const siteConfig = {
   title: 'Manish Bisht Project' /* title for your website */,
   tagline: 'A website for project overview',
   url: 'https://manishbisht.me' /* your website url */,
-  baseUrl: '/new-project/' /* base url for your project */,
-  projectName: 'new-project',
+  baseUrl: '/project-with-docs/' /* base url for your project */,
+  projectName: 'project-with-docs',
   headerLinks: [
     {doc: 'doc1', label: 'Docs'},
     {doc: 'doc4', label: 'API'},
